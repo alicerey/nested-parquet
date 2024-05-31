@@ -1,0 +1,1 @@
+select a from umbra.parquetview('l0.parquet');

@@ -1,0 +1,1 @@
+select "b.list.element.element", "b.list.element.c.list.element" from umbra.parquetview('l2.parquet');
