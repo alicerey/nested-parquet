@@ -1,0 +1,1 @@
+select avg(a*1.0) from umbra.parquetview('l0.parquet')

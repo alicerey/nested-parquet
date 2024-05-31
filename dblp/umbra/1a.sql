@@ -1,0 +1,1 @@
+SELECT title from umbra.parquetview('dblp.parquet') WHERE title like '%database%'
